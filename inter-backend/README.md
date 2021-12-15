@@ -1,36 +1,92 @@
-- Requisitos e ambiente 
 
-- Visual Studio Code
-  Extensões:
-- Insomnia ou Postman
+Para a instalação da IDE e extensões
 
+1)Baixar e instalar o VS-Code:
 
----
-Dependencias nescessárias
+    https://code.visualstudio.com/download
 
-Express
-typescript -D
-ts-node -D 
-@types/express -D
-@types/node -D
-nodemon -D
+2)Extensões:
 
+    Prettier-Codeformatter
 
-Criando setup Inicial - Referencias.
-https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-typescript-58p9
+    EditorConfigforVSCode
 
+    ESLint
 
+3)Instalar Git:
 
-- Recursos nescessários na api
+    https://git-scm.com/downloads
 
+4)Testar o git no vs-code
+
+5)Clonar Projeto:
+
+    https://github.com/pablohdev/dio-inter-clone-backend
+    -BranchTemplate
+
+6)Instalar o node(npm):
+
+    https://nodejs.org/pt-br/download/
+
+    -Atualizar e baixar dependências
+
+    npm i
+
+7)Instalar yarn
+
+    npm install --global yarn
+
+8)Instalar Express
+
+    npm install express
+
+9)Instalar Typescript
+
+    npm install typescript
+
+10)Instalar TypeORM
+
+    npm install typeorm
+
+11)Instalar Drive do PostgresSQL
+
+    npm install pg
+
+12)Instalar o Docker
+
+    https://docs.docker.com/desktop/windows/
+
+13)Rodar o docker
+
+    docker-composeup(naraizondeestarodocker-compos.yaml)
+
+14)Subir o servidor
+
+    yarnstart:dev
+
+15)Instalar Insomnia ou Postman
+
+    https://www.postman.com/downloads/
+
+16)Importar o json do insomnia para testes
+
+--------
 
 - Usuário
+
  [ ] Cadastrar novo usuário
+ 
  [ ] Efeturar login e retornar token de acesso
 
 - PIX
+
  [ ] Efetuar solicitação de PIX
+ 
  [ ] Receber PIX
  
  Regras: 
+ 
   - quando receber um pix, salvar na tabela de transação
+
+
+
