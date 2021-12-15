@@ -16,7 +16,7 @@ ts-node -D
 nodemon -D
 
 
-Criando setup Ininical - Referencias.
+Criando setup Inicial - Referencias.
 https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-typescript-58p9
 
 
