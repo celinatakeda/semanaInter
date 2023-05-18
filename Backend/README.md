@@ -1,11 +1,11 @@
 
 Para a instalação da IDE e extensões
 
-1)Baixar e instalar o VS-Code:
+1) Baixar e instalar o VS-Code:
 
     https://code.visualstudio.com/download
 
-2)Extensões:
+2) Extensões:
 
     Prettier-Codeformatter
 
@@ -13,18 +13,18 @@ Para a instalação da IDE e extensões
 
     ESLint
 
-3)Instalar Git:
+3) Instalar Git:
 
     https://git-scm.com/downloads
 
-4)Testar o git no vs-code
+4 )Testar o git no vs-code
 
-5)Clonar Projeto:
+5) Clonar Projeto:
 
     https://github.com/pablohdev/dio-inter-clone-backend
     -BranchTemplate
 
-6)Instalar o node(npm):
+6) Instalar o node(npm):
 
     https://nodejs.org/pt-br/download/
 
@@ -32,19 +32,19 @@ Para a instalação da IDE e extensões
 
     npm i
 
-7)Instalar yarn
+7) Instalar yarn
 
     npm install --global yarn
 
-8)Instalar Express
+8 )Instalar Express
 
     npm install express
 
-9)Instalar Typescript
+9) Instalar Typescript
 
     npm install typescript
 
-10)Instalar TypeORM
+10) Instalar TypeORM
 
     npm install typeorm
 
@@ -52,23 +52,23 @@ Para a instalação da IDE e extensões
 
     npm install pg
 
-12)Instalar o Docker
+12) Instalar o Docker
 
     https://docs.docker.com/desktop/windows/
 
-13)Rodar o docker
+13) Rodar o docker
 
     docker-composeup(naraizondeestarodocker-compos.yaml)
 
-14)Subir o servidor
+14) Subir o servidor
 
     yarnstart:dev
 
-15)Instalar Insomnia ou Postman
+15) Instalar Insomnia ou Postman
 
     https://www.postman.com/downloads/
 
-16)Importar o json do insomnia para testes
+16) mportar o json do insomnia para testes
 
 --------
 
